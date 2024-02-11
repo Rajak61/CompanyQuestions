@@ -14,4 +14,9 @@ public class NonOverlappingIntervals {
 		
 	}
 
+	private static Object[] removeOverLapIntervals(int[][] intervals) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
