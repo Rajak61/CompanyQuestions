@@ -1,0 +1,17 @@
+Qualcomm
+------------------
+https://www.geeksforgeeks.org/delete-nodes-list-greater-x/
+
+https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/
+https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
+https://aaronice.gitbook.io/lintcode/sweep-line/closest-pair-of-points
+
+work schedule
+https://www.youtube.com/watch?v=q3OoK8yMmWo
+
+
+find triplt in arrray
+
+oracle
+---------------------
+https://www.geeksforgeeks.org/find-the-missing-number/
