@@ -22,9 +22,9 @@ public class InsertInterval {
 		List<int[]>result=new ArrayList<>();
 		int i=0,n=intervals.length;
 		
-		while(i<n && intervals[i][1]<newInterval[0])
+		while(i<n && intervals[i][1]<newInterval[0]){
 			result.add(intervals[i++]);
-		
+		}		
 		int []m=newInterval;
 		while(i<n&& intervals[i][0]<=newInterval[1]){
 			
