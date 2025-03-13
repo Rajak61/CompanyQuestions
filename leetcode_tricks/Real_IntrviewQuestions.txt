@@ -15,3 +15,7 @@ find triplt in arrray
 oracle
 ---------------------
 https://www.geeksforgeeks.org/find-the-missing-number/
+
+
+
+https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
